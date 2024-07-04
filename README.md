@@ -1,1 +1,33 @@
 # SmallStructuresMod
+INI Settings:
+[SmallStructuresInventory]
+BeerBarrelMax=10
+ChemistryBenchMax=50
+FabricatorMax=25
+IndustrialGrillMax=25
+IndustrialCookingPotMax=40
+IndustrialForgeMax=50
+IndustrialGrinderMax=60
+PreservingBinMax=24
+RefrigeratorMax=80
+TekReplicatorMax=300
+VaultMax=150
+
+[SmallStructuresHealth]
+BeerBarrelHealth=5000
+ChemistryBenchHealth=1250
+FabricatorHealth=1250
+IndustrialGrillHealth=1000
+IndustrialCookingPotHealth=13000
+IndustrialForgeHealth=13500
+IndustrialGrinderHealth=1250
+PreservingBinHealth=600
+RefrigeratorHealth=1000
+TekReplicatorHealth=12500
+VaultHealth=25000
+WaterTankHealth=15000
+
+[SmallStructuresWater]
+BeerBarrelWater=500
+IndustrialCookingPotWater=5000
+WaterTankWater=2500
