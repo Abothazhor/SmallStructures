@@ -1,7 +1,8 @@
 # SmallStructures
 # INI Settings and default values:
 
-[SmallStructures]
+### 🏠 Small Structures
+```ini
 SmallBeerBarrel_Health=
 SmallBeerBarrel_Slots=
 SmallBeerBarrel_Water=
@@ -34,7 +35,10 @@ SmallIndustrialGrinder_CraftingSpeed=
 SmallIndustrialGrinder_Health=
 SmallIndustrialGrinder_Slots=
 SmallIndustrialGrinder_Volume=
+```
 
+### 🔍 Micro Structures
+```ini
 MicroBeerBarrel_Health=
 MicroBeerBarrel_Slots=
 MicroBeerBarrel_Water=
@@ -63,3 +67,4 @@ MicroIndustrialGrinder_CraftingSpeed=
 MicroIndustrialGrinder_Health=
 MicroIndustrialGrinder_Slots=
 MicroIndustrialGrinder_Volume=
+```
