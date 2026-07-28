@@ -5,7 +5,7 @@
 ```ini
 [SmallStructures]
 ; ==============================================================================
-; SMALL STRUCTURES (75% BASE SCALING)
+; SMALL STRUCTURES
 ; ==============================================================================
 SmallBeerBarrel_Health=3750
 SmallBeerBarrel_Slots=18
@@ -13,44 +13,44 @@ SmallBeerBarrel_Water=750
 SmallBloodForge_CraftingSpeed=1
 SmallBloodForge_Health=7500
 SmallBloodForge_Slots=75
-SmallBloodForge_Volume=10
+SmallBloodForge_Volume=2
 SmallChemistryBench_CraftingSpeed=1
 SmallChemistryBench_Health=4500
 SmallChemistryBench_Slots=75
-SmallChemistryBench_Volume=10
+SmallChemistryBench_Volume=2
 SmallFabricator_CraftingSpeed=1
 SmallFabricator_Health=1875
 SmallFabricator_Slots=52
-SmallFabricator_Volume=5
+SmallFabricator_Volume=2
 SmallGasGenerator_Health=1500
 SmallGasGenerator_Range=30
-SmallGasGenerator_Slots=6
-SmallGasGenerator_Volume=5
+SmallGasGenerator_Slots=7
+SmallGasGenerator_Volume=2
 SmallGrill_CraftingSpeed=1
 SmallGrill_Health=3750
 SmallGrill_Slots=18
-SmallGrill_Volume=5
+SmallGrill_Volume=2
 SmallIndustrialCooker_CraftingSpeed=1
 SmallIndustrialCooker_Health=4500
 SmallIndustrialCooker_Slots=36
-SmallIndustrialCooker_Volume=10
+SmallIndustrialCooker_Volume=2
 SmallIndustrialCooker_Water=750
 SmallIndustrialForge_CraftingSpeed=1
 SmallIndustrialForge_Health=20250
 SmallIndustrialForge_Slots=75
-SmallIndustrialForge_Volume=20
+SmallIndustrialForge_Volume=2
 SmallIndustrialGrinder_CraftingSpeed=1
 SmallIndustrialGrinder_Health=5625
 SmallIndustrialGrinder_Slots=60
-SmallIndustrialGrinder_Volume=15
+SmallIndustrialGrinder_Volume=2
 SmallIndustrialPreservingBin_CraftingSpeed=1
 SmallIndustrialPreservingBin_Health=3750
 SmallIndustrialPreservingBin_Slots=60
-SmallIndustrialPreservingBin_Volume=5
+SmallIndustrialPreservingBin_Volume=2
 SmallMakeshiftMegalab_CraftingSpeed=1
 SmallMakeshiftMegalab_Health=11250
 SmallMakeshiftMegalab_Slots=112
-SmallMakeshiftMegalab_Volume=15
+SmallMakeshiftMegalab_Volume=2
 SmallPreservingBin_CraftingSpeed=1
 SmallPreservingBin_Health=600
 SmallPreservingBin_Slots=18
@@ -59,21 +59,21 @@ SmallRefrigerator_Slots=60
 SmallSmallSteamForge_CraftingSpeed=1
 SmallSmallSteamForge_Health=3750
 SmallSmallSteamForge_Slots=37
-SmallSmallSteamForge_Volume=10
+SmallSmallSteamForge_Volume=2
 SmallTekGenerator_Health=3750
 SmallTekGenerator_Range=35
-SmallTekGenerator_Slots=3
-SmallTekGenerator_Volume=5
+SmallTekGenerator_Slots=7
+SmallTekGenerator_Volume=2
 SmallTekReplicator_CraftingSpeed=1
 SmallTekReplicator_Health=18750
 SmallTekReplicator_Slots=450
-SmallTekReplicator_Volume=25
+SmallTekReplicator_Volume=2
 SmallVault_Health=37500
 SmallVault_Slots=262
 SmallWarbench_CraftingSpeed=1
 SmallWarbench_Health=3750
 SmallWarbench_Slots=75
-SmallWarbench_Volume=8
+SmallWarbench_Volume=2
 SmallWaterResevoir_Health=1125
 SmallWaterResevoir_Range=20
 SmallWaterResevoir_Slots=7
@@ -82,11 +82,11 @@ SmallWaterTank_Health=1125
 SmallWaterTank_Range=20
 SmallWaterTank_Slots=7
 SmallWaterTank_Water=375
-SmallWindGenerator_Volume=5
-SmallWindmill_Volume=5
+SmallWindGenerator_Volume=2
+SmallWindmill_Volume=2
 
 ; ==============================================================================
-; MICRO STRUCTURES (50% BASE SCALING)
+; MICRO STRUCTURES
 ; ==============================================================================
 MicroBeerBarrel_Health=2500
 MicroBeerBarrel_Slots=12
@@ -94,44 +94,44 @@ MicroBeerBarrel_Water=500
 MicroBloodForge_CraftingSpeed=1
 MicroBloodForge_Health=5000
 MicroBloodForge_Slots=50
-MicroBloodForge_Volume=10
+MicroBloodForge_Volume=2
 MicroChemistryBench_CraftingSpeed=1
 MicroChemistryBench_Health=3000
 MicroChemistryBench_Slots=50
-MicroChemistryBench_Volume=10
+MicroChemistryBench_Volume=2
 MicroFabricator_CraftingSpeed=1
 MicroFabricator_Health=1250
 MicroFabricator_Slots=35
-MicroFabricator_Volume=5
+MicroFabricator_Volume=2
 MicroGasGenerator_Health=1000
 MicroGasGenerator_Range=30
-MicroGasGenerator_Slots=4
-MicroGasGenerator_Volume=5
+MicroGasGenerator_Slots=7
+MicroGasGenerator_Volume=2
 MicroGrill_CraftingSpeed=1
 MicroGrill_Health=2500
 MicroGrill_Slots=12
-MicroGrill_Volume=5
+MicroGrill_Volume=2
 MicroIndustrialCooker_CraftingSpeed=1
 MicroIndustrialCooker_Health=3000
 MicroIndustrialCooker_Slots=24
-MicroIndustrialCooker_Volume=10
+MicroIndustrialCooker_Volume=2
 MicroIndustrialCooker_Water=500
 MicroIndustrialForge_CraftingSpeed=1
 MicroIndustrialForge_Health=13500
 MicroIndustrialForge_Slots=50
-MicroIndustrialForge_Volume=20
+MicroIndustrialForge_Volume=2
 MicroIndustrialGrinder_CraftingSpeed=1
 MicroIndustrialGrinder_Health=3750
 MicroIndustrialGrinder_Slots=40
-MicroIndustrialGrinder_Volume=15
+MicroIndustrialGrinder_Volume=2
 MicroIndustrialPreservingBin_CraftingSpeed=1
 MicroIndustrialPreservingBin_Health=2500
 MicroIndustrialPreservingBin_Slots=40
-MicroIndustrialPreservingBin_Volume=5
+MicroIndustrialPreservingBin_Volume=2
 MicroMakeshiftMegalab_CraftingSpeed=1
 MicroMakeshiftMegalab_Health=7500
 MicroMakeshiftMegalab_Slots=75
-MicroMakeshiftMegalab_Volume=15
+MicroMakeshiftMegalab_Volume=2
 MicroPreservingBin_CraftingSpeed=1
 MicroPreservingBin_Health=400
 MicroPreservingBin_Slots=12
@@ -140,31 +140,31 @@ MicroRefrigerator_Slots=40
 MicroSmallSteamForge_CraftingSpeed=1
 MicroSmallSteamForge_Health=2500
 MicroSmallSteamForge_Slots=25
-MicroSmallSteamForge_Volume=10
+MicroSmallSteamForge_Volume=2
 MicroTekGenerator_Health=2500
 MicroTekGenerator_Range=35
-MicroTekGenerator_Slots=2
-MicroTekGenerator_Volume=5
+MicroTekGenerator_Slots=7
+MicroTekGenerator_Volume=2
 MicroTekReplicator_CraftingSpeed=1
 MicroTekReplicator_Health=12500
 MicroTekReplicator_Slots=300
-MicroTekReplicator_Volume=25
+MicroTekReplicator_Volume=2
 MicroVault_Health=25000
 MicroVault_Slots=175
 MicroWarbench_CraftingSpeed=1
 MicroWarbench_Health=2500
 MicroWarbench_Slots=50
-MicroWarbench_Volume=8
+MicroWarbench_Volume=2
 MicroWaterResevoir_Health=750
 MicroWaterResevoir_Range=20
-MicroWaterResevoir_Slots=5
+MicroWaterResevoir_Slots=7
 MicroWaterResevoir_Water=250
 MicroWaterTank_Health=750
 MicroWaterTank_Range=20
-MicroWaterTank_Slots=5
+MicroWaterTank_Slots=7
 MicroWaterTank_Water=250
-MicroWindGenerator_Volume=5
-MicroWindmill_Volume=5
+MicroWindGenerator_Volume=2
+MicroWindmill_Volume=2
 
 ; ==============================================================================
 ; GLOBAL MULTIPLIERS
@@ -174,7 +174,7 @@ SmallStructures_GlobalSoundVolume=2
 
 [SmallStructures_Warbench]
 ; ==============================================================================
-; WARBENCH MECHANICS
+; WARBENCH SPECIFIC MECHANICS
 ; ==============================================================================
 SmallWarbench_DurabilityAdded=15
 SmallWarbench_MaxQualityWeight=3.0
