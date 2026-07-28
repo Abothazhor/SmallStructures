@@ -1,34 +1,65 @@
 # SmallStructures
 # INI Settings and default values:
 
-[SmallStructuresInventory]
-  BeerBarrelMax=10
-  ChemistryBenchMax=50
-  FabricatorMax=25
-  IndustrialGrillMax=25
-  IndustrialCookingPotMax=40
-  IndustrialForgeMax=50
-  IndustrialGrinderMax=60
-  PreservingBinMax=24
-  RefrigeratorMax=80
-  TekReplicatorMax=300
-  VaultMax=150
+[SmallStructures]
+SmallBeerBarrel_Health=
+SmallBeerBarrel_Slots=
+SmallBeerBarrel_Water=
+SmallChemistryBench_CraftingSpeed=
+SmallChemistryBench_Health=
+SmallChemistryBench_Slots=
+SmallChemistryBench_Volume=
+SmallFabricator_CraftingSpeed=
+SmallFabricator_Health=
+SmallFabricator_Slots=
+SmallFabricator_Volume=
+SmallGasGenerator_Health=
+SmallGasGenerator_Range=
+SmallGasGenerator_Slots=
+SmallGasGenerator_Volume=
+SmallGrill_CraftingSpeed=
+SmallGrill_Health=
+SmallGrill_Slots=
+SmallGrill_Volume=
+SmallIndustrialCooker_CraftingSpeed=
+SmallIndustrialCooker_Health=
+SmallIndustrialCooker_Slots=
+SmallIndustrialCooker_Volume=
+SmallIndustrialCooker_Water=
+SmallIndustrialForge_CraftingSpeed=
+SmallIndustrialForge_Health=
+SmallIndustrialForge_Slots=
+SmallIndustrialForge_Volume=
+SmallIndustrialGrinder_CraftingSpeed=
+SmallIndustrialGrinder_Health=
+SmallIndustrialGrinder_Slots=
+SmallIndustrialGrinder_Volume=
 
-[SmallStructuresHealth]
-  BeerBarrelHealth=5000
-  ChemistryBenchHealth=1250
-  FabricatorHealth=1250
-  IndustrialGrillHealth=1000
-  IndustrialCookingPotHealth=13000
-  IndustrialForgeHealth=13500
-  IndustrialGrinderHealth=1250
-  PreservingBinHealth=600
-  RefrigeratorHealth=1000
-  TekReplicatorHealth=12500
-  VaultHealth=25000
-  WaterTankHealth=15000
-
-[SmallStructuresWater]
-  BeerBarrelWater=500
-  IndustrialCookingPotWater=5000
-  WaterTankWater=2500
+MicroBeerBarrel_Health=
+MicroBeerBarrel_Slots=
+MicroBeerBarrel_Water=
+MicroChemistryBench_CraftingSpeed=
+MicroChemistryBench_Health=
+MicroChemistryBench_Slots=
+MicroChemistryBench_Volume=
+MicroFabricator_CraftingSpeed=
+MicroFabricator_Health=
+MicroFabricator_Slots=
+MicroFabricator_Volume=
+MicroGrill_CraftingSpeed=
+MicroGrill_Health=
+MicroGrill_Slots=
+MicroGrill_Volume=
+MicroIndustrialCooker_CraftingSpeed=
+MicroIndustrialCooker_Health=
+MicroIndustrialCooker_Slots=
+MicroIndustrialCooker_Volume=
+MicroIndustrialCooker_Water=
+MicroIndustrialForge_CraftingSpeed=
+MicroIndustrialForge_Health=
+MicroIndustrialForge_Slots=
+MicroIndustrialForge_Volume=
+MicroIndustrialGrinder_CraftingSpeed=
+MicroIndustrialGrinder_Health=
+MicroIndustrialGrinder_Slots=
+MicroIndustrialGrinder_Volume=
