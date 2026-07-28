@@ -1,4 +1,4 @@
-# SmallStructuresMod
+# SmallStructures
 # INI Settings and default values:
 
 [SmallStructuresInventory]
