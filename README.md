@@ -8,7 +8,7 @@
 ; SMALL STRUCTURES
 ; ==============================================================================
 SmallBeerBarrel_Health=3750
-SmallBeerBarrel_Slots=18
+SmallBeerBarrel_Slots=7
 SmallBeerBarrel_Water=750
 SmallChemistryBench_CraftingSpeed=1
 SmallChemistryBench_Health=4500
@@ -24,7 +24,7 @@ SmallGasGenerator_Slots=7
 SmallGasGenerator_Volume=2
 SmallGrill_CraftingSpeed=1
 SmallGrill_Health=3750
-SmallGrill_Slots=18
+SmallGrill_Slots=37
 SmallGrill_Volume=2
 SmallIndustrialCooker_CraftingSpeed=1
 SmallIndustrialCooker_Health=4500
@@ -49,7 +49,7 @@ SmallMakeshiftMegalab_Slots=112
 SmallMakeshiftMegalab_Volume=2
 SmallPreservingBin_CraftingSpeed=1
 SmallPreservingBin_Health=600
-SmallPreservingBin_Slots=18
+SmallPreservingBin_Slots=36
 SmallRefrigerator_Health=2250
 SmallRefrigerator_Slots=60
 SmallSmallSteamForge_CraftingSpeed=1
